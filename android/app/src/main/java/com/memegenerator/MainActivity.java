@@ -1,4 +1,4 @@
-package com.memegenerator;
+package com.memegeneratorpro.me;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
